@@ -8,11 +8,6 @@ generation quality — especially for turbo / distilled models with few steps.
 
 Nodes provided
 --------------
-*  **Quantum Spectral Sampler**  — SAMPLER with spectral trust gating,
-   trajectory momentum, and stochastic resonance.
-*  **Phi-Harmonic Scheduler**    — SIGMAS built on golden-ratio (φ)
-   mathematics with four algorithm modes.
-*  **Quantum Flow KSampler**     — All-in-one convenience node.
 *  **Spectral Latent Enhance**   — Frequency-domain latent post-processor.
 
 Installation
